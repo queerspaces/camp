@@ -1,0 +1,31 @@
+body {
+
+width: 2000px;
+height: 1250px;
+
+background-color: #7c63d6;
+
+background-image:
+url('https://i.imgur.com/dDT7LMS.png');
+
+background-repeat: no-repeat;
+
+background-attachment: scroll;
+
+background-position:
+0px 0px;
+
+background-size:
+auto;
+
+}
+
+#text1{
+  font-family: sans-serif;
+  position: absolute;
+  bottom: -100px;
+  right: -250px;
+  font-size: 30px;
+  width: 800px;
+  color: #99c5f0;
+}

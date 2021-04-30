@@ -33,7 +33,7 @@ auto;
 #click{
   font-family: sans-serif;
   position: absolute;
-  bottom: -500px;
+  bottom: 500px;
   right: -850px;
   font-size: 30px;
   width: 800px;

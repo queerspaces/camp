@@ -29,3 +29,13 @@ auto;
   width: 800px;
   color: #99c5f0;
 }
+
+#click{
+  font-family: sans-serif;
+  position: absolute;
+  bottom: -1000px;
+  right: -1050px;
+  font-size: 30px;
+  width: 800px;
+  color: #99c5f0;
+}
